@@ -221,7 +221,7 @@ footer a {
 @media screen and (min-width: 1200px) {
     body {
         max-width: 100%;
-        font-size: 2em;
+        font-size: 1.5em;
         padding: 2% 10%;
     } 
 
@@ -284,6 +284,7 @@ footer a {
         width: 49%;
         border-radius: 20px;
         text-align: center;
+        margin-bottom: 2%;
     }
     aside div {
         display: inline-block;
